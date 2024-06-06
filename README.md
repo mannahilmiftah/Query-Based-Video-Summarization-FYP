@@ -27,3 +27,9 @@ The process of video summarization entails two primary tasks: image captioning a
 10. The overlapping frames are eliminated to avoid repetition of frames in a summary.
 11. For every similar frame preceding and succeeding 4-second segments are selected alongside them to maintain coherence within the summary.
 12. The generated summaries are evaluated against human generated ground truth. The evaluation metrics used are recall and F1-score.
+
+## Video Summaries (Output)
+https://drive.google.com/drive/folders/1eZ6foFICWWHc17HG7CyWajTthZsbqtEk?usp=drive_link
+
+## Dataset
+https://drive.google.com/drive/folders/1evcIC95NbJWVBRFLEFjg7ooLpM0LDcze?usp=drive_link
