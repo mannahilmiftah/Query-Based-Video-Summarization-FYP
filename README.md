@@ -5,7 +5,7 @@ The goal of this project is to create an end-to-end deep learning solution for a
 fulfilling all the aspects of user provided context.
 
 ## Dataset
-Ego4D is a large-scale, multi-modal dataset for egocentric (first-person) video understanding. It consists of over 3,000 hours of video recordings from 700 unique individuals, capturing daily activities like cooking, cleaning, and socializing. The dataset includes:
+Ego4D is a large-scale, multi-modal dataset for egocentric (first-person) video understanding. It consists of over 3,000 hours of video recordings from 700 unique individuals, capturing daily activities like cooking, cleaning, and socializing. The dataset includes:
 1. 3,000+ hours of egocentric video.
 2. 40,000+ annotated episodes (short video clips).
 3. 12,000+ hours of audio narration.
