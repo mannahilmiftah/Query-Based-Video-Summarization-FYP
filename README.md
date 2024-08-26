@@ -1,7 +1,7 @@
 # Query-Based-Video-Summarization-FYP
 
 ## Problem Statement
-The goal of this project is to create an end-to-end deep learning solution for a query based video summarization, where the system automatically generates concise yet informative summaries of input videos pertaining to the query provided by the user. The summarization process should capture the most important scenes, actions, events, and content from the video while maintaining coherence and avoiding redundancy and
+The goal of this project is to create an end-to-end deep learning solution for a query based video summarization, where the system automatically generates concise yet informative summaries of input videos pertaining to the query provided by the user. The summarization process should capture the most important scenes, actions, events, and content from the video while maintaining coherence and avoiding redundancy and
 fulfilling all the aspects of user provided context.
 
 ## Dataset
